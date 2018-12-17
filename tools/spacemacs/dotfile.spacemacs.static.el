@@ -88,7 +88,7 @@
    dotspacemacs-themes '(solarized-light solarized-dark)
    dotspacemacs-mode-line-theme '(spacemacs :separator wave :separator-scale 1.5)
    dotspacemacs-colorize-cursor-according-to-state t
-   dotspacemacs-default-font '("Source Code Pro")
+   dotspacemacs-default-font '("Source Code Pro" :size 18)
    dotspacemacs-leader-key "SPC"
    dotspacemacs-emacs-command-key "SPC"
    dotspacemacs-ex-command-key ":"
